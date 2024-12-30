@@ -1,6 +1,7 @@
 # Hono OpenAPI Integration Guide
 
-This README provides a comprehensive guide to your project, including installation instructions, usage, project structure, schema definitions, route definitions, and OpenAPI documentation setup.
+This project demonstrates how to integrate OpenAPI with the Hono framework using the `zod` library for schema validation.
+
 
 ## Table of Contents
 
